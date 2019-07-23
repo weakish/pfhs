@@ -4,7 +4,7 @@ Persnoal Filesystem Hierarchy Standard
 My computer root file system adheres the Filesystem Hierarchy Standard.
 But my home directory is a mess.
 Thus I try design something like pfhs
-(Persnoal Filesystem Hierarchy Standard)
+(Personal Filesystem Hierarchy Standard)
 to organize my files.
 
 - bin: executable.
